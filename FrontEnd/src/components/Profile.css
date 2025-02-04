@@ -1,0 +1,27 @@
+.profile-container
+{
+    margin-right: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    justify-content: center;
+    background-color: white;
+    height: 600px;
+
+}
+.profile-name
+{
+    font-weight:bolder;
+    font-size:x-large;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-right: 18px;
+}
+.custom-post-btn
+{
+    width: 20rem;
+    border-radius: 10rem;
+    margin-top: 15px;
+    margin-bottom: 26px;
+}

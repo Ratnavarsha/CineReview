@@ -1,0 +1,16 @@
+.create-review-container
+{
+    height: 600px;
+    width:1000px;
+    /* border: solid; */
+    margin: auto;
+    margin-top: 20px;
+    padding: 40px;
+    overflow-y: scroll;
+    scrollbar-width: none;
+    box-shadow: 1px 1px 5px hsl(227, 41%, 16%);
+}
+label
+{
+    font-weight:450;
+}

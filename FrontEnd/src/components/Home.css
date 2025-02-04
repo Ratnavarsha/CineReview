@@ -1,0 +1,16 @@
+.content-container {
+    display: flex; /* Flexbox layout */
+    width: 100%; /* Occupy full width */
+    margin-top: 20px; /* Add spacing below the header */
+  }
+  
+  .posts {
+    flex: 3; /* 75% of the width */
+    padding: 10px;
+  }
+  
+  .profile {
+    flex: 1; /* 25% of the width */
+    padding: 10px;
+    /* border-left: 1px solid #ccc; Optional: Adds a divider */
+  }

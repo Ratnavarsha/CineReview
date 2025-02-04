@@ -1,0 +1,28 @@
+.navigation
+{
+    border: none;
+    width: 100%;
+    height: 60px;
+    display: flex;
+    flex-direction: row;
+    align-items:center;
+    /* background-color:rgba(24,31,57,255); */
+    background-color: hsl(227, 41%, 16%);
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+    
+}
+.details-section,.search-section,.account-section
+{
+    display: flex;
+    align-items: center;
+}
+.search-section
+{
+    margin-right: 450px;
+}
+.logo
+{
+    margin: 10px;
+}
